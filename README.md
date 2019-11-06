@@ -255,7 +255,7 @@ The wrapper.py is the wrapper file **we use on our PBS queue managment system** 
 * queue name (#PBS -q)
 * walltime (#PBS -l)
 
-These two parameters are defined at line 159 of the wrapper.py file.
+These two parameters are defined at line 169 of the wrapper.py file.
 
 Once you have modified these parameters you can proceed and use the wrapper.py script. To see the help, type:
 ```
